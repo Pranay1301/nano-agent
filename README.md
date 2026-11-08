@@ -83,6 +83,10 @@ python3 nano_agent.py --render-trace trace.jsonl > trace.html
 `live-trace.jsonl` / `live-trace.html` in this repo are a **real run** against
 the live model named above - not a fixture.
 
+**View the real trace in your browser:** https://pranay1301.github.io/nano-agent/live-trace.html
+(static hosting of the repo file - the agent itself is a CLI, not a hosted
+service).
+
 ## Tests
 
 ```bash
